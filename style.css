@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@200&family=Lobster&display=swap');
+body{
+  background-color:whitesmoke;
+  font-family: 'Be Vietnam Pro', sans-serif;
+​
+}
+.block{
+  display:block;
+}
+#image>img{
+  width:30%;
+  margin-top:10%;
+}
+.container{
+  position:relative;
+}
+form{
+  position:absolute;
+  background:#EEA30C;
+  top: 10%;
+  left:30%;
+ padding: 10px 50px;
+  border-radius:30px;
+  
+}
+input[type="text"]{
+  width:200px;
+  height:25px;
+  padding:2px 5px;
+}
+label{
+  font-size:17px;
+  padding:10px 0px;
+}
+button{
+ display:block;
+  background:black;
+  color:white;
+  margin:15px auto;
+  border:none;
+  padding: 15px 20px;
+  border-radius:30px;
+  font-size:100%;
+}
